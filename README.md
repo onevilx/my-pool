@@ -1,2 +1,2 @@
 # my-pool
-this is projects i worked at 1337 piscine July 2024
+this is the projects i studied at 1337 piscine July 2024.
