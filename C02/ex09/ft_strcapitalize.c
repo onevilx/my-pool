@@ -3,7 +3,7 @@
 	• Create a function that capitalizes the first letter of each word and transforms all other letters to lowercase.
 	• A word is a string of alphanumeric characters.
 	• Here’s how it should be prototyped :
-	char *ft_strcapitalize(char *str);
+	char	*ft_strcapitalize(char *str);
 	• It should return str.
 	• For example:
 	"salut, comment tu vas ? 42mots quarante-deux; cinquante+et+un"

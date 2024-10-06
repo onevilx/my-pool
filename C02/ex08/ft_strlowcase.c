@@ -2,7 +2,7 @@
 	SUBJECT :
 	• Create a function that transforms every letter to lowercase.
 	• Here’s how it should be prototyped :
-	char *ft_strlowcase(char *str);
+	char	*ft_strlowcase(char *str);
 	• It should return str.
 */
 
