@@ -2,7 +2,7 @@
 	SUBJECT :
 	• Create a function that displays a string of characters on the standard output.
 	• Here’s how it should be prototyped :
-	void ft_putstr(char *str);
+	void	ft_putstr(char *str);
 */
 
 //____________________________________________________________________________________________________________________________________
