@@ -2,7 +2,7 @@
 	SUBJECT :
 	• Reproduce the behavior of the function strstr (man strstr).
 	• Here’s how it should be prototyped :
-	char *ft_strstr(char *str, char *to_find);
+	char	*ft_strstr(char *str, char *to_find);
 */
 
 //____________________________________________________________________________________________________________________________________

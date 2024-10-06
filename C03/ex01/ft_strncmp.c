@@ -2,7 +2,7 @@
 	SUBJECT :
 	• Reproduce the behavior of the function strncmp (man strncmp).
 	• Here’s how it should be prototyped :
-	int ft_strncmp(char *s1, char *s2, unsigned int n);
+	int	ft_strncmp(char *s1, char *s2, unsigned int n);
 */
 
 //____________________________________________________________________________________________________________________________________

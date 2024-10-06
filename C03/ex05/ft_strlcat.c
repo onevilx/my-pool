@@ -2,7 +2,7 @@
 	SUBJECT :
 	• Reproduce the behavior of the function strlcat (man strlcat).
 	• Here’s how it should be prototyped :
-	unsigned int ft_strlcat(char *dest, char *src, unsigned int size);
+	unsigned	int ft_strlcat(char *dest, char *src, unsigned int size);
 */
 
 //____________________________________________________________________________________________________________________________________
