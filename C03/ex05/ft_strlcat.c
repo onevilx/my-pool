@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: yaboukir <marvin@42.fr>                    +#+  +:+       +#+        */
+/*   By: root <root@student.42.fr>                  +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/08/05 11:18:09 by yaboukir          #+#    #+#             */
-/*   Updated: 2024/08/05 15:20:41 by yaboukir         ###   ########.fr       */
+/*   Updated: 2024/09/13 00:16:12 by root             ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -27,11 +27,9 @@ unsigned int	ft_strlcat(char *dest, char *src, unsigned int size)
 {
 	unsigned int	i;
 	unsigned int	lsrc;
-	unsigned int	j;
 	unsigned int	ldest;
 
 	i = 0;
-	j = 0;
 	lsrc = ft_strlen(src);
 	ldest = ft_strlen(dest);
 	if (size <= ldest)
