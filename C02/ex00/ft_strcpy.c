@@ -2,7 +2,7 @@
 	SUBJECT :
 	Reproduce the behavior of the function strcpy (man strcpy).
 	• Here’s how it should be prototyped :
-	char *ft_strcpy(char *dest, char *src);
+	char	*ft_strcpy(char *dest, char *src);
 */
 
 //____________________________________________________________________________________________________________________________________
